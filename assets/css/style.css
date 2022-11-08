@@ -9,7 +9,21 @@ body{
     font-family: sans-pro, sans-serif;
     font-weight: 200;
     color: #000;
+    
 }
+
+/* headings */
+
+h2{
+    font-family: Xanh Mono, sans-serif;
+    font-weight: 200;
+    text-decoration: none;
+    color: slategray;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 250%;
+}
+
 
 /*header logo */
 #logo{
@@ -19,9 +33,7 @@ body{
 }
 
 /*navagation links */
-#menu{
-    margin-bottom: 20px;
-}
+
 
 #nav-links li{
     float: right;
@@ -59,4 +71,17 @@ body{
     position: relative;
     overflow: hidden;
     margin-top: 20px;
+}
+
+/* best seller images and text */
+
+#best-seller-img {
+    float: left;
+    height: 300px;
+    width: 25%;
+}
+
+.best-seller p{
+    float: left;
+    font-family: inherit;
 }
