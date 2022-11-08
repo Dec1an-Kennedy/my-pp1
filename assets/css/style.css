@@ -11,9 +11,19 @@ body{
     color: #fff;
 }
 
+/*header logo */
 #logo{
     float: left;
     max-width: 40%;
     height: 120px;
-    
+}
+
+/*navagation links */
+
+#nav-links li{
+    float: right;
+    margin-right: 40px;
+    list-style: none;
+    font-size: 125%;
+
 }
