@@ -8,7 +8,7 @@
 body{
     font-family: sans-pro, sans-serif;
     font-weight: 200;
-    color: #fff;
+    color: #000;
 }
 
 /*header logo */
@@ -26,4 +26,23 @@ body{
     list-style: none;
     font-size: 125%;
 
+}
+
+#logo, #nav-links {
+    line-height: 75px;
+}
+
+#nav-links a{
+    text-decoration: none;
+    color: black;
+
+}
+
+#nav-links a:hover {
+    color: slategray;
+}
+
+.active{
+    border-bottom: 1px solid;
+    color: inherit;
 }
