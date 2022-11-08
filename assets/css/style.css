@@ -76,12 +76,18 @@ h2{
 /* best seller images and text */
 
 #best-seller-img {
-    float: left;
-    height: 300px;
     width: 25%;
+    height: 350px;
+    float: left;
 }
 
-.best-seller p{
-    float: left;
+.best-seller p {
     font-family: inherit;
+    font-weight: 200;
+    float: left;
+    text-align: center;
+    width: 50%;
+    padding-top: 100px;
+    
 }
+
