@@ -11,6 +11,12 @@ body{
     color: #000;
     
     
+    
+}
+
+.header-menu{
+    width: 100%;
+    height: 120px;
 }
 
 
@@ -32,7 +38,7 @@ h2{
     float: left;
     max-width: 40%;
     height: 120px;
-   
+   margin-left: 10px;
 }
 
 /*navagation links */
@@ -52,7 +58,7 @@ h2{
 
 #nav-links a{
     text-decoration: none;
-    color: black;
+    color: #000;
 
 }
 
@@ -73,7 +79,6 @@ h2{
     height: 500px;
     position: relative;
     overflow: hidden;
-    margin-top: 20px;
 }
 
 /* best seller images and text */
@@ -106,6 +111,7 @@ h2{
   width: 70%;
   height: 300px;
   padding-top: 100px;
+  margin: 0;
     
 }
 
@@ -119,11 +125,11 @@ h2{
     height: 300px;
     border: 1px solid #000;
     border-radius: 50%;
-    float: left;
+    float: right;
 }
 
 #meet-text p {
-    padding-left: 350px;
+    padding-left: 400px;
 }
 
 
