@@ -171,11 +171,44 @@ footer, #outer-footer{
 .our-story-img{
     width: 100%;
     height: 500px;
-    position: relative;
-    overflow: hidden;
+    
 }
 
 #our-story-p{
     width: 70%;
     margin: 0 auto;
+}
+.story-outter{
+    width: 100%;
+    height: 400px;
+     overflow: hidden;
+     position: relative;
+}
+
+#story-image {
+    background: url("../images/bottles.jpeg") no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+#story-cover-text{
+    font-size: 100%;
+    font-family: inherit;
+    letter-spacing: 6px;
+ 
+    width: 450px;
+    height: 375px;
+
+    
+    background-color: rgba(5, 8, 6, .8);
+
+    padding-top: 50px;
+    padding-left: 20px;
+    bottom: 10px;
+    right: 120px;
+    position: absolute;
+    
 }
