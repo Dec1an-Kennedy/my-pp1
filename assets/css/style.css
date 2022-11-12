@@ -149,7 +149,7 @@ footer, #outer-footer{
     
 }
 
-#footer-img, #social-links, #copywrite, #newsletter {
+#footer-img, #social-links, #info, #newsletter {
     width: 25%;
     height: 120px;
     float: left;
