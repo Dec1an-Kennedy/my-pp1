@@ -49,8 +49,9 @@ h2{
 
 
 #nav-links li{
+    text-align: center;
     float: right;
-    margin-right: 40px;
+    margin-right: 50px;
     list-style: none;
     font-size: 125%;
 
