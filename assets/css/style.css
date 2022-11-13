@@ -80,11 +80,18 @@ h2{
 /* head images */
 
 .head-img{
-    background: url("../images/whiskey-glass.jpg") no-repeat center center;
     width: 100%;
     height: 600px;
     position: relative;
     overflow: hidden;
+}
+
+.home{
+    background: url("../images/whiskey-glass.jpg") no-repeat center center;
+}
+
+.products{
+    background: url("../images/products-head.webp") no-repeat center center;
 }
 
 
