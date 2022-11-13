@@ -213,3 +213,14 @@ footer, #outer-footer{
     position: absolute;
     
 }
+
+/*contact form */
+
+.contact-input-box{ 
+    border: 1px solid teal;
+}
+
+.submit{
+    background-color: red;
+    color: white;
+}
