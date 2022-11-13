@@ -19,6 +19,7 @@ body{
 .header-menu{
     width: 100%;
     height: 120px;
+    background-color: slategray;
     
     
 }
@@ -146,6 +147,7 @@ h2{
 footer, #outer-footer{
     width: 100%;
     height: 120px;
+    background-color: slategray;
     
 }
 
