@@ -120,6 +120,7 @@ h2{
 
 #clients-outer{
     width: 100%;
+    padding-bottom: 50px;
 }
 
 #clients-top{
@@ -128,11 +129,13 @@ h2{
 
 #clients-bottom{
     width: 100%;
+    padding-top: 50px;
 }
 
 .clients-images{
     width: 33%;
     height: 150px;
+    padding: 20px 50px 20px 50px;
 }
 
 .left-side{
@@ -145,6 +148,7 @@ h2{
     width: 33%;
     height: 150px;
     float: right;
+    margin-right: 30px;
 }
 
 .center-about{
