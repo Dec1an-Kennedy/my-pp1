@@ -126,6 +126,15 @@ h2{
     width: 100%;
 }
 
+#clients-bottom{
+    width: 100%;
+}
+
+.clients-images{
+    width: 33%;
+    height: 150px;
+}
+
 .left-side{
     width: 33%;
     height: 150px;
