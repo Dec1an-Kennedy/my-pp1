@@ -116,6 +116,34 @@ h2{
 }
 
 
+/* clients */
+
+#clients-outer{
+    width: 100%;
+}
+
+#clients-top{
+    width: 100%;
+}
+
+.left-side{
+    width: 33%;
+    height: 150px;
+    float: left;
+}
+
+.right-side{
+    width: 33%;
+    height: 150px;
+    float: right;
+}
+
+.center-about{
+    width: 33%;
+    height: 150px;
+    margin: 0 auto;
+}
+
 /* meet */
 #meet{
     width: 100%;
