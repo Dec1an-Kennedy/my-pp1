@@ -286,6 +286,28 @@ footer, #outer-footer{
     
 }
 
+/* products */
+
+.product-images{
+    width: 20%;
+    height: 300px;
+    
+}
+/*
+.product-right{
+    float: right;
+}
+
+.product-left{
+    float: left;
+}
+*/
+
+.product-text{
+    width: 80%;
+    height: 300px;
+    float: right;
+}
 /*contact form */
 
 .contact-input-box{ 
