@@ -307,12 +307,26 @@ footer, #outer-footer{
 
 /*contact form */
 
-.col-left, .col-right{
+.col-left, .col-2{
     width: 50%;
     height: 600px;
     margin-top: 50px;
     margin-left: 25%;
     border: 2px solid slategray;
+}
+
+.col-2{
+    font-family: inherit;
+    text-align: center;
+}
+
+.address-heading{
+    margin-top: 30px;
+    font-size: 100%;
+}
+
+.address{
+    padding-top: 30px;
 }
 
 
