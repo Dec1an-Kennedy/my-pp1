@@ -325,10 +325,15 @@ input, label{
 
 
 .contact-input-box{ 
-    border: 1px solid teal;
+    border: 2px solid slategray;
     height: 30px;
     width: 41%;
     
+}
+
+.comment-box{
+    height: 170px;
+    width: 100%;
 }
 
 .submit{
