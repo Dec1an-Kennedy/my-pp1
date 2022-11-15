@@ -110,7 +110,7 @@ h3{
     height:auto;
     position: relative;
     float: left;
-    background-color:pink;
+    background-color:slategray;
     opacity: 0.6;
     margin-top: 250px;
     margin-left: 90px;
@@ -298,9 +298,10 @@ footer, #outer-footer{
 }
 
 .product-text{
-    width: 80%;
+    width: 70%;
     height: 200px;
     float: right;
+    margin-right: 50px;
     padding-top: 100px;
 }
 
