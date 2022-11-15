@@ -307,13 +307,18 @@ footer, #outer-footer{
 
 /*contact form */
 
-.col-left{
-    width: 40%;
+.col-left, .col-right{
+    width: 50%;
     height: 600px;
-    margin-left: 10%;
     margin-top: 50px;
+    margin-left: 25%;
     border: 2px solid slategray;
 }
+
+
+
+
+
 input, label{
     display: block;
 }
