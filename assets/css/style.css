@@ -322,11 +322,15 @@ footer, #outer-footer{
 
 .address-heading{
     margin-top: 30px;
-    font-size: 100%;
+    font-size: 150%;
 }
 
 .address{
     padding-top: 30px;
+}
+
+.address-line{
+    margin-top: 30px;
 }
 
 
@@ -359,6 +363,11 @@ input, label{
     background-color: red;
     color: white;
     
+}
+
+.contact-times{
+    margin: 0 auto;
+    margin-top: 30px;
 }
 
 /*map */
