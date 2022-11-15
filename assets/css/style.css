@@ -8,8 +8,8 @@
 body{
     font-family: sans-pro, sans-serif;
     font-weight: 200;
-    color: #000;
-    
+    color: #fff;
+    background-color: #afb8bd;
     
     
     
@@ -31,7 +31,7 @@ h2{
     font-family: Xanh Mono, sans-serif;
     font-weight: 200;
     text-decoration: none;
-    color: #000;
+    color: #fff;
     text-align: center;
     padding-top: 20px;
     font-size: 250%;
@@ -41,7 +41,7 @@ h3{
     font-family: Xanh Mono, sans-serif;
     font-weight: 500;
     text-decoration: none;
-    color: #000;
+    color: #fff;
 }
 
 /*header logo */
@@ -202,7 +202,7 @@ h3{
 #meet-circle {
     width: 30%;
     height: 300px;
-    border: 1px solid #000;
+    border: 1px solid #fff;
     border-radius: 50%;
     float: right;
 }
@@ -294,16 +294,8 @@ footer, #outer-footer{
     width: 20%;
     height: 300px;
     
+    
 }
-/*
-.product-right{
-    float: right;
-}
-
-.product-left{
-    float: left;
-}
-*/
 
 .product-text{
     width: 80%;
