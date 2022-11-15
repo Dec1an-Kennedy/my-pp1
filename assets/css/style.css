@@ -101,6 +101,8 @@ h3{
     
 }
 
+
+
 /* home cover text */
 
 .home-cover-text{
@@ -305,9 +307,11 @@ footer, #outer-footer{
 
 .product-text{
     width: 80%;
-    height: 300px;
+    height: 200px;
     float: right;
+    padding-top: 100px;
 }
+
 /*contact form */
 
 .contact-input-box{ 
