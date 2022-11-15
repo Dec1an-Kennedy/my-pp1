@@ -309,7 +309,7 @@ footer, #outer-footer{
 
 .col-left{
     width: 40%;
-    height: 500px;
+    height: 600px;
     margin-left: 10%;
     margin-top: 50px;
     border: 2px solid slategray;
@@ -322,6 +322,8 @@ input, label{
     padding: 30px 80px 30px 80px;
 }
 
+
+
 .contact-input-box{ 
     border: 1px solid teal;
     height: 30px;
@@ -333,4 +335,12 @@ input, label{
     background-color: red;
     color: white;
     
+}
+
+/*map */
+
+.map{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
 }
