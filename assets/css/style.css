@@ -310,11 +310,17 @@ footer, #outer-footer{
 .col-left{
     width: 40%;
     height: 500px;
+    margin-left: 10%;
+    margin-top: 50px;
+    border: 2px solid slategray;
 }
-form{
-    margin: 0 auto;
+input, label{
+    display: block;
 }
 
+.row-1, .row-2, .row-3, .row-4, .row-5{
+    padding: 30px 80px 30px 80px;
+}
 
 .contact-input-box{ 
     border: 1px solid teal;
