@@ -207,6 +207,14 @@ h3{
     
 }
 
+.meet-pic{
+    width: 50%;
+    height: 250px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+
 #meet-circle {
     width: 30%;
     height: 300px;
