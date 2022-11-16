@@ -409,6 +409,7 @@ input, label{
 
 @media screen and (max-width: 1200px){
 
+    /* responsive design best seller */
 .best-seller{
     width: 80%;
     height: 500px;
@@ -420,6 +421,15 @@ input, label{
     height: 300px;
     
 }
+
+/* Responsive design clients */
+
+#clients{
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+}
+
 
 
 }
