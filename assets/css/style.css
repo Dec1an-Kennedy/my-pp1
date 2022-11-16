@@ -280,15 +280,15 @@ footer, #outer-footer{
 #story-cover-text{
     font-size: 100%;
     font-family: inherit;
-    letter-spacing: 6px;
+    letter-spacing: 2px;
     margin-top: 50px;
     width: 450px;
-    height: 320px;
+    height: 220px;
 
     
-    background-color: rgba(76, 223, 125, 0.8);
-
-    padding-top: 50px;
+    background-color: slategray;
+    opacity: .8;
+    padding-top: 30px;
     padding-left: 20px;
     bottom: 10px;
     right: 120px;
