@@ -389,8 +389,6 @@ input, label{
 
 /*map */
 
-.map{
-    margin-top: 50px;
-    margin-bottom: 50px;
-    width: 100%;
+#map-wrapper~{
+    border: 2px solid slategray;
 }
