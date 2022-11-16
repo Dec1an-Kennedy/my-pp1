@@ -409,7 +409,11 @@ input, label{
 
 @media screen and (max-width: 1200px){
 
-
+.best-seller{
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+}
 
 
 }
