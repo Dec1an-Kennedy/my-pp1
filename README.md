@@ -19,48 +19,47 @@ In this section, you should go over the different parts of your project, and des
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
+  - The landing includes a photograph with text overlay to allow the user to see exactly what this site is all about. 
   - This section introduces the user to Kennedy's Distillery and invites them to learn more about us and our products.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page]<img src="asstes/images/landing-page.png">
 
-- __Club Ethos Section__
+- __Clients__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The clients section allows the viewer to see who some of our loyal clients are, to make them feel abit better about buying our product as big bars already buy our drink. 
+  - This user will see the value of our product and will hopfully get in touch to either ask us questions or order our produce.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Clients]<img src="assets/images/clients.png">
 
-- __Meetup Times section__
+- __Meetup Declan__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section will allow the user to learn more about our master distiller Declan Kennedy. It will hopefully allow them to connect with us on a better level.
+   
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Declan]<img src="assets/images/meet.png">
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Kennedy's Distillery. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer]
 
-- __Gallery__
+- __Products__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __Our Story Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get to know our company and what inspired us to set-up our business, this page also aims to show the hard work we have put in but also show the work and care we are and willing to put into our products.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+  - __Contact Us Page__
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+  -This page allows the user to have the option to get in touch with us to ask us any questions or concerns, we also provide them with our address and contact number so they can visit the distillery, to see the devoted work that we put in.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
 
 ### Features Left to Implement
 
@@ -105,6 +104,20 @@ I tested the website reponsivness using four different devices.Those devices are
 
 
 
+### Wireframes
+-The wireframes and the finished project have some differences, this is because as i went along i realised i could implement more features and in a neater design. These are the original wireframes
+<details><summary>Home</summary>
+<img src="assets/images/home-wireframe.png">
+</details>
+<details><summary>Products</summary>
+<img src="assets/images/product-wireframe.png">
+</details>
+<details><summary>Our Story</summary>
+<img src="assets/images/our-story-wireframe.png">
+</details>
+<details><summary>Contact Us</summary>
+<img src="assets/images/contact-wireframe.png">
+</details>
 
 
 
@@ -124,37 +137,16 @@ The live link can be found here - https://dec1an-kennedy.github.io/my-pp1/
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
+https://www.w3schools.com/
+https://www.youtube.com/watch?v=ZYV6dYtz4HA
+https://www.motor1.com/news/606090/bentley-macallan-horizon-bottle/
+Adobe Photoshop
 ### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos used on the home page are from https://unsplash.com
+- The images used for the gallery page were taken from https://pxhere.com
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
