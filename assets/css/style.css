@@ -227,9 +227,6 @@ h3{
     float: right;
 }
 
-#meet-text p {
-    padding-left: 400px;
-}
 
 
 /* footer */
@@ -409,7 +406,7 @@ input, label{
 
 @media screen and (max-width: 1200px){
 
-    /* responsive head image */
+    /* responsive head image 1200 */
 
    .head-img{
     width: 100%;
@@ -425,7 +422,7 @@ input, label{
    }
 
 
-    /* responsive design best seller */
+    /* responsive design best seller 1200 */
 .best-seller{
     width: 80%;
     height: 500px;
@@ -438,7 +435,7 @@ input, label{
     
 }
 
-/* Responsive design clients */
+/* Responsive design clients 1200 */
 
 #clients{
     width: 80%;
@@ -456,7 +453,7 @@ input, label{
     height:150px;
 }
 
-/* responsive design meet */
+/* responsive design meet 1200 */
 
 #meet{
     width: 80%;
@@ -468,10 +465,13 @@ input, label{
 
 #meet-text{
     padding-right: 300px;
+    padding-left: 0;
+    width: 80%;
+    height: 300px;
     margin: 0 auto;
 }
 
-/* responsive products */
+/* responsive products 1200 */
 
 .product-images{
     width: 20%;
@@ -481,7 +481,7 @@ input, label{
 
 }
 
-/* responsive our story */
+/* responsive our story 1200 */
 
 #our-story{
     width: 80%;
@@ -494,4 +494,17 @@ input, label{
 
 #story-cover-text{
     margin-bottom: 50px;
+}
+
+/* responsive contact us 1200 */
+
+.contact-us-page{
+    margin: 0 auto;
+}
+
+
+/* max screen 800 */
+
+@media screen and (max-width:800px){
+    
 }
