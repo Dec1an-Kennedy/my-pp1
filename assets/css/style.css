@@ -155,6 +155,7 @@ h3{
     padding-bottom: 50px;
     padding-top: 50px;
     font-family: inherit;
+    margin-left: 15%;
 }
 
 #clients-top{
@@ -173,20 +174,22 @@ h3{
 }
 
 .left-side{
-    width: 30%;
+    width: 45%;
     height: 150px;
     float: left;
 }
 
+/*
 .right-side{
     width: 30%;
     height: 150px;
     float: right;
     
 }
+*/
 
 .center-about{
-    width: 30%;
+    width: 45%;
     height: 150px;
     margin: 0 auto;
 }
@@ -400,120 +403,6 @@ input, label{
 
 #map-wrapper~{
     border: 2px solid slategray;
-}
-
-/* max width 1200 */
-
-@media screen and (max-width: 1200px){
-
-    /* responsive head image 1200 */
-
-   .head-img{
-    width: 100%;
-    height:400px;
-    margin: 0 auto;
-   }
-
-   /* responsive home */
-
-   .home-cover-text{
-    width: 30%;
-    margin-top: 180px;
-   }
-
-
-    /* responsive design best seller 1200 */
-.best-seller{
-    width: 80%;
-    height: 500px;
-    margin: 0 auto;
-}
-
-#best-seller-img{
-    width: 30%;
-    height: 300px;
-    
-}
-
-/* Responsive design clients 1200 */
-
-#clients{
-    width: 80%;
-    height: 500px;
-    margin: 0 auto;
-}
-
-#clients-outer{
-    width: 100%;
-    
-}
-
-.clients-images{
-    width: 80%;
-    height:150px;
-}
-
-/* responsive design meet 1200 */
-
-#meet{
-    width: 80%;
-    height: 600px;
-    margin-top: 15%;
-    margin-left: 10%;
-    
-}
-
-#meet-text{
-    padding-right: 300px;
-    padding-left: 0;
-    width: 80%;
-    height: 300px;
-    margin: 0 auto;
-}
-
-/* responsive products 1200 */
-
-.product-images{
-    width: 20%;
-    height: 300px;
-    margin-left: 5%;
-}
-
-}
-
-/* responsive our story 1200 */
-
-#our-story{
-    width: 80%;
-    margin: 0 auto;
-}
-
-#our-story-p{
-    margin-bottom: 10%;
-}
-
-#story-cover-text{
-    margin-bottom: 50px;
-}
-
-/* responsive contact us 1200 */
-
-.contact-us-page{
-    margin: 0 auto;
-}
-
-
-/* max screen 800 */
-
-@media screen and (max-width:800px){
-
-    /* head of page responsive 800 */
-
-    .header-menu{
-        width: 100%;
-        height: 100px;
-        
-
 }
 
 
