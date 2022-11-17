@@ -541,4 +541,17 @@ input, label{
         margin-top: 20px;
     }
 
+    /* products page */
+    .product-text{
+        width: 60%;
+       padding-top: 50px;
+    }
+
+    .product-images{
+        width: 25%;
+        margin-left: 5%;
+    }
+
 }
+
+
