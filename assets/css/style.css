@@ -432,11 +432,22 @@ input, label{
 
 #clients-outer{
     width: 100%;
+    
 }
 
 .clients-images{
     width: 80%;
     height:150px;
+}
+
+/* responsive design meet */
+
+#meet{
+    width: 80%;
+    height: 600px;
+    margin-top: 15%;
+    margin-left: 10%;
+    
 }
 
 
