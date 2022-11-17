@@ -430,6 +430,15 @@ input, label{
     margin: 0 auto;
 }
 
+#clients-outer{
+    width: 100%;
+}
+
+.clients-images{
+    width: 80%;
+    height:150px;
+}
+
 
 
 }
