@@ -520,4 +520,25 @@ input, label{
         
     }
 
+    .best-seller{
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    #best-seller-img{
+        margin-top: 50px;
+        margin-left: 0;
+        margin-right: 5%;
+    }
+
+
+    #clients-outer{
+        width: 80%;
+    }
+   
+
+    .meet-pic{
+        margin-top: 20px;
+    }
+
 }
