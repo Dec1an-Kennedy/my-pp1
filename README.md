@@ -43,7 +43,7 @@ In this section, you should go over the different parts of your project, and des
   - The footer section includes links to the relevant social media sites for Kennedy's Distillery. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer]
+
 
 - __Products__
 
