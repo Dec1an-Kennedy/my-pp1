@@ -432,6 +432,7 @@ input, label{
 
     .head-img{
         width: 100%;
+        min-height: 400px;
     }
 
     .home-cover-text{
@@ -496,6 +497,16 @@ input, label{
     width: 100%;
     margin-left: 30%;
     
+}
+
+.contact-cover-text{
+    width: 40%;
+    margin-top: 100px;
+}
+
+.col-left, .col-2{
+    width: 90%;
+    margin-left: 5%;
 }
 
 }
