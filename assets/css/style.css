@@ -517,5 +517,9 @@ input, label{
 .not-found{
     font-family: inherit;
     font-size: 140%;
-    margin: 0 auto;
+    text-align: center;
+}
+
+.not-found a{
+    font-size:110%;
 }
