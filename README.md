@@ -78,10 +78,10 @@ I tested the website reponsivness using four different devices.Those devices are
 ### Validator Testing 
 
 - HTML
-  -Home no errors were found[W3C validator]( https://validator.w3.org/nu/#textarea)
-  -Products 1 error was found [W3C validator]( https://validator.w3.org/nu/#textarea)
-  -Our Story 2 errors were found [W3C validator]( https://validator.w3.org/nu/#textarea)
-  -Contact us no errors were found [W3C validator]( https://validator.w3.org/nu/#textarea)
+  - Home no errors were found[W3C validator]( https://validator.w3.org/nu/#textarea)
+  - Products 1 error was found [W3C validator]( https://validator.w3.org/nu/#textarea)
+  - Our Story 2 errors were found [W3C validator]( https://validator.w3.org/nu/#textarea)
+  - Contact us no errors were found [W3C validator]( https://validator.w3.org/nu/#textarea)
 
 - CSS
   - Style.css 2 errors were found [(W3) validator](https://validator.w3.org/nu/#textarea
@@ -137,10 +137,10 @@ The live link can be found here - https://dec1an-kennedy.github.io/my-pp1/
 
 ## Credits 
 
-https://www.w3schools.com/
-https://www.youtube.com/watch?v=ZYV6dYtz4HA
-https://www.motor1.com/news/606090/bentley-macallan-horizon-bottle/
-Adobe Photoshop
+- https://www.w3schools.com/
+- https://www.youtube.com/watch?v=ZYV6dYtz4HA
+- https://www.motor1.com/news/606090/bentley-macallan-horizon-bottle/
+- Adobe Photoshop
 ### Content 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
