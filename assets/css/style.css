@@ -406,3 +406,48 @@ input, label{
 }
 
 
+@media screen and (max-width:1200px){
+
+    .home-cover-text{
+        width: 55%;
+        margin-left: 0;
+        margin-top: 400px;
+    }
+
+    #best-seller-img {
+        width: 70%;
+        height: 200px;
+       margin-left: 15%;
+
+}
+.best-seller p {
+    width: 80%;
+    padding-top: 50px;
+    text-align: center;
+    margin-left: 10%;
+}
+
+#clients{
+    margin-top: 10%;
+}
+
+.clients-images{
+    width: 40%;
+    height: 200px;
+}
+
+#meet-circle{
+    visibility: inherit;
+}
+
+#meet-text {
+    width: 90%;
+    margin-left: 10%;
+     
+ }
+
+ footer{
+    height: 200px;
+
+}
+}
