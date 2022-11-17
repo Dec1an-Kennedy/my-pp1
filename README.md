@@ -68,36 +68,58 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+I tested the website reponsivness using four different devices.Those devices are as follows
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+-Razer Blade 15 laptop
+-M1 Macbook pro(standard laptop screen and also displayed up onto a 21 inch monitor)
+-Iphone 11 Pro
+-Ipad Air 4
 
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  -Home no errors were found[W3C validator]( https://validator.w3.org/nu/#textarea)
+  -Products 1 error was found [W3C validator]( https://validator.w3.org/nu/#textarea)
+  -Our Story 2 errors were found [W3C validator]( https://validator.w3.org/nu/#textarea)
+  -Contact us no errors were found [W3C validator]( https://validator.w3.org/nu/#textarea)
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - Style.css 2 errors were found [(W3) validator](https://validator.w3.org/nu/#textarea
+)
+
+### Lighthouse Testing
+
+<details><summary>Home</summary>
+<img src="assets/images/home-lighthouse.png">
+</details>
+<details><summary>Products</summary>
+<img src="assets/images/product-lighthouse.png">
+</details>
+<details><summary>Our Story</summary>
+<img src="assets/images/our-story-lighthouse.png">
+</details>
+<details><summary>Contact Us</summary>
+<img src="assets/images/contact-us-lighthouse.png">
+</details>
+
+
+
+
+
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+I ran into difficulty when making the header and some text responsive. i was unable to make this part responsive.
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://dec1an-kennedy.github.io/my-pp1/ 
 
 
 ## Credits 
