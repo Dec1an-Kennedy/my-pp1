@@ -409,6 +409,22 @@ input, label{
 
 @media screen and (max-width: 1200px){
 
+    /* responsive head image */
+
+   .head-img{
+    width: 100%;
+    height:400px;
+    margin: 0 auto;
+   }
+
+   /* responsive home */
+
+   .home-cover-text{
+    width: 30%;
+    margin-top: 180px;
+   }
+
+
     /* responsive design best seller */
 .best-seller{
     width: 80%;
