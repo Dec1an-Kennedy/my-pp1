@@ -480,3 +480,18 @@ input, label{
 }
 
 }
+
+/* responsive our story */
+
+#our-story{
+    width: 80%;
+    margin: 0 auto;
+}
+
+#our-story-p{
+    margin-bottom: 10%;
+}
+
+#story-cover-text{
+    margin-bottom: 50px;
+}
