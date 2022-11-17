@@ -406,7 +406,29 @@ input, label{
 }
 
 
-@media screen and (max-width:1200px){
+@media screen and (max-width:950px) {
+    
+    .home-cover-text{
+        width: 40%;
+        margin-left: 0;
+        margin-top: 400px;
+    }
+
+    #story-cover-text{
+        font-size: 100%;
+        width: 50%;
+        
+    }
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:800px){
 
     .head-img{
         width: 100%;
@@ -414,8 +436,6 @@ input, label{
 
     .home-cover-text{
         width: 55%;
-        margin-left: 0;
-        margin-top: 400px;
     }
 
     #best-seller-img {
@@ -455,11 +475,6 @@ input, label{
 
 }
 
-#story-cover-text{
-    font-size: 80%;
-    width: 100%;
-    margin-left: 30%;
-}
 
 .product-images{
     width: 80%;
@@ -474,6 +489,13 @@ input, label{
     
     margin-right: 50px;
     padding-top: 50px;
+}
+
+#story-cover-text{
+    font-size: 70%;
+    width: 100%;
+    margin-left: 30%;
+    
 }
 
 }
